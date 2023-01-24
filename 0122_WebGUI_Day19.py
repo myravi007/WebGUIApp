@@ -24,4 +24,3 @@ for index, item in enumerate(items_list):
 
 sl.text_input(label="Enter a To-Do to add:", placeholder="Please add To-Do...", key="Add To-Do", on_change=add_to_do)
 
-sl.session_state
