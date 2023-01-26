@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run web.py
+web: sh setup.sh && streamlit run 0122_WebGUI_Day19.py
